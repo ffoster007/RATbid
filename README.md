@@ -1,5 +1,5 @@
 **RATbit** is a data management system that helps make work easier for many types of jobs.  
-You can use it for things like:  
+can use it for things like:  
 - Sending tasks  
 - Tracking progress  
 - Saving information  
