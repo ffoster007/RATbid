@@ -5,7 +5,6 @@
 If you discover a vulnerability or security issue in RATbid, please report it **privately** to ensure the safety of all users.
 
 - Email: 
-- We aim to respond within **5 business days**.
 - Please **do not open public GitHub issues** for security problems.
 
 If necessary, you can encrypt your message using our PGP key (available upon request).
